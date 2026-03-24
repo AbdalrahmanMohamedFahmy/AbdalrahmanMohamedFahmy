@@ -26,6 +26,29 @@ Currently, I am expanding my knowledge by learning Backend development using .NE
 
 ---
 
+```dart
+class AbdalrahmanMohamedFahmy {
+  String role = "Frontend Developer";
+  String specialization = "React & Next.js";
+  String currentFocus = "Learning .NET Backend";
+  String language = "Arabic & English";
+
+  List<String> skills = [
+    "HTML, CSS, JavaScript",
+    "TypeScript",
+    "React.js",
+    "Next.js",
+    "Tailwind CSS",
+    "Bootstrap",
+    "Responsive Design",
+    "REST APIs",
+    "Git & GitHub"
+  ];
+
+  String goal = "Become a Full-Stack Developer";
+}
+```
+
 ## 🚀 Tech Stack
 
 ### 💻 Frontend
